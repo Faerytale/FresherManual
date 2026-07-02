@@ -50,8 +50,9 @@
   - 南山店：南山区南头街道前海路3001号新德家园裙楼2层E1-A
   - 宝安店：宝安区31区前进一路186号东方明珠酒店101
 - 推荐理由：小贵但我觉得做的不错性价比高的广式早茶，每个朋友来找我我都带他们去吃，蘩楼人太多了排队几个小时才吃上一口，悦满楼每个店都很大，不是高峰期不用排队店内装潢也很好。
-![悦满楼1](https://raw.githubusercontent.com/ShuLiCollege/FresherManual/refs/heads/master/docs/res/img/food/yuemanlou.jpg)
-![悦满楼2](https://raw.githubusercontent.com/ShuLiCollege/FresherManual/refs/heads/master/docs/res/img/food/yuemanlou2.jpg)
+
+<img src="https://raw.githubusercontent.com/ShuLiCollege/FresherManual/refs/heads/master/docs/res/img/food/yuemanlou.jpg" width="45%">
+<img src="https://raw.githubusercontent.com/ShuLiCollege/FresherManual/refs/heads/master/docs/res/img/food/yuemanlou2.jpg" width="45%">
 
 **中山脆肉皖** by 李欢熹学姐
 - 人均：70左右
@@ -102,13 +103,13 @@
 
 ### 六号门小吃街
 **玉米饼**
-![玉米饼](https://raw.githubusercontent.com/ShuLiCollege/FresherManual/refs/heads/master/docs/res/img/food/yumibing.jpg)
+<img src="https://raw.githubusercontent.com/ShuLiCollege/FresherManual/refs/heads/master/docs/res/img/food/yumibing.jpg" width="45%">
 
 **早点见面的干拌臊子面**
-![臊子面](https://raw.githubusercontent.com/ShuLiCollege/FresherManual/refs/heads/master/docs/res/img/food/saozimian.jpg)
+<img src="https://raw.githubusercontent.com/ShuLiCollege/FresherManual/refs/heads/master/docs/res/img/food/saozimian.jpg" width="45%">
 
 **东北烤冷面的芝士火鸡烤冷面**
-![烤冷面](https://raw.githubusercontent.com/ShuLiCollege/FresherManual/refs/heads/master/docs/res/img/food/kaolengmian.jpg)
+<img src="https://raw.githubusercontent.com/ShuLiCollege/FresherManual/refs/heads/master/docs/res/img/food/kaolengmian.jpg" width="45%">
 
 
 ## 好玩的地方
@@ -206,7 +207,7 @@
 - 梧桐山 - 有一定体力要求
   - 梧桐山是深圳最高峰，主峰海拔约943米。相比塘朗山，梧桐山爬升更明显、台阶更多，登顶更有挑战性。天气好时，山顶视野开阔，可远眺深圳城区、盐田港、东部山海和香港方向。
   - 路线：选择梧桐山北门、泰山涧、秀桐道等入口上山，根据体力选择登小梧桐或大梧桐。
-![梧桐山](https://raw.githubusercontent.com/ShuLiCollege/FresherManual/refs/heads/master/docs/res/img/life/wutongshan.jpg)
+![梧桐山](https://raw.githubusercontent.com/ShuLiCollege/FresherManual/refs/heads/master/docs/res/img/life/Play/play_wutongshan.jpg)
 
 - 东西涌穿越 - 入门海岸穿越、不建议单人前往
   - 东西涌穿越是深圳最著名的海岸线徒步之一，也是鲲鹏径第十九段，起终点为西涌旅游度假区—东涌社区。路线沿途有海岸、礁石、山路、沙滩和海蚀地貌，风景野性强，曾被《中国国家地理》评为中国最美八大海岸之一。该路线有一定礁石穿越和路况变化，需注意防滑、防晒、潮汐和天气，建议结伴出行。
@@ -214,12 +215,13 @@
 - 香港麦理浩径 - 新手友好
   - 除了深圳本地，还非常推荐前往全球十大经典徒步路线之一————麦理浩径
   - 路线：推荐走二段精华段（一日版），集中呈现了西贡东部最有代表性的海岸景观：浪茄湾海水清澈，西湾和咸田湾沙滩开阔，沿途能看到山脊、海湾、村落和沙滩连续变化，风景绝美。如考虑露营需要当心野猪出没。
-![麦理浩径](https://raw.githubusercontent.com/ShuLiCollege/FresherManual/refs/heads/master/docs/res/img/life/mailihaojing.jpg)
+![麦理浩径](https://raw.githubusercontent.com/ShuLiCollege/FresherManual/refs/heads/master/docs/res/img/life/Play/play_mailihaojing.jpg)
 
 - 打鼓嶂 - 难度适中
   - 打鼓嶂地处坪山、盐田、龙岗三区交界，整体爬升平缓，土路与林荫道相间，难度适中，路线成熟，沿途生态氛围浓厚。登顶观景台可俯瞰三洲田水库，湖中小岛错落，被称作“深圳千岛湖”，晴好天气还能眺望坪山城区与大鹏海湾，出片效果极佳。
-![打鼓嶂1](https://raw.githubusercontent.com/ShuLiCollege/FresherManual/refs/heads/master/docs/res/img/life/daguzhang.jpg)
-![打鼓嶂2](https://raw.githubusercontent.com/ShuLiCollege/FresherManual/refs/heads/master/docs/res/img/life/daguzhang2.jpg)
+![打鼓嶂1](https://raw.githubusercontent.com/ShuLiCollege/FresherManual/refs/heads/master/docs/res/img/life/Play/play_daguzhang.jpg)
+![打鼓嶂2](https://raw.githubusercontent.com/ShuLiCollege/FresherManual/refs/heads/master/docs/res/img/life/Play/play_daguzhang2.jpg)
+![打鼓嶂3](https://raw.githubusercontent.com/ShuLiCollege/FresherManual/refs/heads/master/docs/res/img/life/Play/play_daguzhang3.jpg)
 
 此外，欢迎加入学校川衡社，社团会每月组织带队登山、露营活动。
 
