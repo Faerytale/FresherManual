@@ -29,7 +29,8 @@
 
 辩论社入社方式一般为参加新生辩论赛，由社团根据新生赛情况选拔，具体可以进招新群了解。
 
-![辩论社招新群](https://raw.githubusercontent.com/ShuLiCollege/FresherManual/refs/heads/master/docs/res/img/life/Club_and_org/Club_Bianlun.jpg)
+<img src="https://raw.githubusercontent.com/ShuLiCollege/FresherManual/refs/heads/master/docs/res/img/life/Club_and_org/Club_Bianlun.jpg" width="30%">
+
 
 #### 树礼CONC阿卡贝拉人声乐团
 阿卡贝拉(A Cappella)是一种不依赖乐器的人声合唱，团队中每个人各司其职，最后结合成一首完整的音乐。“阿卡贝拉”的声部一般由女高、女中、男高、男中、男低、beatbox组成，每个人都能在其中找到属于自己的part。
@@ -44,11 +45,13 @@
 
 #### 推理社
 树礼推理社成立于2026年6月。本社团可供大家交流推理小说与影视作品，体验各类推理类桌游，参与推理征文、谜题比赛。是供各位推理爱好者聚集的栖息之地。万物终局，真相永存，世界的尽头是推理，欢迎大家加入推理社！
-![推理社招新群](https://raw.githubusercontent.com/ShuLiCollege/FresherManual/refs/heads/master/docs/res/img/life/Club_and_org/Club_Tuili.jpeg)
+
+<img src="https://raw.githubusercontent.com/ShuLiCollege/FresherManual/refs/heads/master/docs/res/img/life/Club_and_org/Club_Tuili.jpeg" width="30%">
 
 #### “南柯谜岛”剧本杀社
 “南柯谜岛”剧本杀社成立于2025年9月，是南科大校内剧本杀服务的先行者。社团每周在校内场地组织剧本杀活动，所有剧本均由同学担任DM（主持人）带本，目前已拥有可开剧本30余本。我们以“南柯一梦，谜岛寻踪”为理念，为同学们提供角色扮演、逻辑推理与团队协作的沉浸式体验。剧本杀社在成立当年即荣获2025年“树礼书院优秀社团”称号，已成为校园内剧本杀爱好者不可错过的聚集地。
-![剧本杀社招新群](https://raw.githubusercontent.com/ShuLiCollege/FresherManual/refs/heads/master/docs/res/img/life/Club_and_org/Club_Jubensha.jpeg)
+
+<img src="https://raw.githubusercontent.com/ShuLiCollege/FresherManual/refs/heads/master/docs/res/img/life/Club_and_org/Club_Jubensha.jpeg" width="30%">
 
 
 ## 院队
@@ -62,14 +65,16 @@
 
 树礼书院男篮，现役队员数量**17人左右**。每周**1～2次**由**专业教练指导**的技战术训练，定期会一起观看比赛回放总结得失。代表书院参加每年的**新生杯和书院杯**篮球赛。日常训练内容包括但不限于个人技巧专项训练、战术执行训练、书院间友谊赛等。树礼男篮在去年的书院杯中荣获**冠军**，在今年的新生杯中荣获**殿军**，并在与港中深的友谊赛中获得胜利。秋季开学将会安排招新，届时会进行测试，测试项目待定。主要依据**测试项目各项分数**进行筛选，**招新12人左右**。后续院队筛选会作进一步通知。欢迎各位热爱篮球的同学报名参加！
 
-![树礼男篮招新群](https://raw.githubusercontent.com/ShuLiCollege/FresherManual/refs/heads/master/docs/res/img/life/Club_and_org/Club_Basketball.jpeg)
+<img src="https://raw.githubusercontent.com/ShuLiCollege/FresherManual/refs/heads/master/docs/res/img/life/Club_and_org/Club_Basketball.jpeg" width="30%">
 
 </div>
 
 **女篮**
 
 树礼书院女子篮球队成立于2017年，目前由十名主力队员及**两名教练**组成，在过去几年参加过多次新生杯篮球赛以及校园女子篮球赛，在**2023年春季学期校园女子篮球赛**中取得了**季军**，在**2025年春季校园篮球联赛女子组比赛**中获得了**亚军**，球队的实力仍在飞速进步中。球队**每周组织1-2次训练**，由经验丰富的书院男篮队员带领训练，训练内容包含热身、传球、运球、投篮、上篮以及战术配合。未来书院女篮仍会坚持训练，积极参加学校组织的比赛，为书院争取荣誉。加入树礼书院女子篮球队**无需任何基础**，只要热爱篮球运动，愿意抽出少量时间参加书院训练，即可加入，接受教练的专业指导！
-![树礼女篮招新群](https://raw.githubusercontent.com/ShuLiCollege/FresherManual/refs/heads/master/docs/res/img/life/Club_and_org/Club_Basketball_female.jpg)
+
+<img src="https://raw.githubusercontent.com/ShuLiCollege/FresherManual/refs/heads/master/docs/res/img/life/Club_and_org/Club_Basketball_female.jpg" width="30%">
+
 
 ### 足球队
 
@@ -78,8 +83,7 @@
 树礼男子足球队是一支充满活力与潜力的年轻劲旅，近年来整体实力一直在稳步提升。在书院杯上我们连续六届比赛**小组出线**，并连续获得亚军和季军，离冠军一步之遥，在**新生杯**中更是连续两届的**亚军**获得者。球队每周组织**2～3次训练**，由**专业教练员何耀锦老师**带领。何教练认真细心，熟知每位球员的特点，是带训练次数最多以及唯一亲自指导新生杯的教练，在书院杯等11人制比赛中也积极使用新生。所以，我们是最注重培养新人的队伍，这在我们的日常训练与正式比赛中都能得到体现。我们欢迎所有热爱体育、热爱足球的同学，大家一起进步，一起为树礼创造新的辉煌！
 
 [树礼足球队官网](https://shulisoccer.pages.dev/)
-![树礼足球队招新群](https://raw.githubusercontent.com/ShuLiCollege/FresherManual/refs/heads/master/docs/res/img/life/Club_and_org/Club_Soccer.jpeg)
-
+<img src="https://raw.githubusercontent.com/ShuLiCollege/FresherManual/refs/heads/master/docs/res/img/life/Club_and_org/Club_Soccer.jpeg" width="30%">
 
 
 </div>
@@ -94,7 +98,8 @@
 
 有意加入的同学可扫码加群了解更多，或联系招新负责人刘佳一（QQ：337289972）。
 
-![树礼排球队招新群](https://raw.githubusercontent.com/ShuLiCollege/FresherManual/refs/heads/master/docs/res/img/life/Club_and_org/Club_Volleyball.jpeg)
+<img src="https://raw.githubusercontent.com/ShuLiCollege/FresherManual/refs/heads/master/docs/res/img/life/Club_and_org/Club_Volleyball.jpeg" width="30%">
+
 
 </div>
 
@@ -111,7 +116,8 @@
 
 树礼书院羽毛球队组建于2023年9月，是树礼羽毛球爱好者的聚集地。经过这2年不断地吸纳新生力量和训练，队伍的实力稳步提升。我们队每周组织训练，且尽可能为队员提供训练用球。在过去一年，我们获得的荣誉有：树礼书院2024-2025年度“优秀运动团体“称号、2026年南科大“筑梦杯”羽毛球赛第五名、2025年南科大羽毛球团体锦标赛第二名（我队队员参与）、2025年“社区杯”羽毛球赛第五名。欢迎同学们加入树礼书院羽毛球队。在队里大家可以互相切磋，提高球技，收获友谊。
 
-![树礼排球队招新群](https://raw.githubusercontent.com/ShuLiCollege/FresherManual/refs/heads/master/docs/res/img/life/Club_and_org/Club_Badminton.jpeg)
+<img src="https://raw.githubusercontent.com/ShuLiCollege/FresherManual/refs/heads/master/docs/res/img/life/Club_and_org/Club_Badminton.jpeg" width="30%">
+
 
 ## 学生组织
 
@@ -129,6 +135,9 @@
 
 树礼书院团委开展一系列丰富树礼书院基层团员的文体艺术各类活动，是树礼书院开展团学工作的重要阵地，统筹并负责树礼书院各团支部的工作。
 
+### 树礼书院学生支持与发展中心
+
+树礼书院学生支持与发展中心成立于2024年，是一个专注于学业帮扶、心理疏导与生涯规划三大领域的综合性支持服务组织，现设立了项目部、宣传部、秘书处三个部门，共同筹办了“小栗子”互助课堂、学长学姐茶话会、专业集市等系列品牌活动，同时也将以学生需求为导向，持续拓展助力成长的多元服务载体。
 
 ### 树礼新媒体中心
 
